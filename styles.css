@@ -51,3 +51,10 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+#start{
+  padding: 20px 100px;
+  font-size: xx-large;
+  color: black;
+  background-color: white;
+}
